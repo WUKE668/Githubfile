@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<dpInst>
+    <language code="0x0409">
+        <dpinstTitle>MegaRAID Software RAID 5 driver installer</dpinstTitle>
+    
+        <welcomeTitle>Welcome to the MegaRAID Software RAID 5 Installer!</welcomeTitle>
+        <welcomeIntro>This wizard will walk you through updating the MegaRAID Software RAID 5 device driver.</welcomeIntro>
+
+        <installHeaderTitle>Installing the MegaRAID Software RAID 5 driver for your device...</installHeaderTitle>
+
+        <finishTitle>Congratulations!</finishTitle>
+        <finishText>You are finished installing the MegaRAID Software RAID 5 device driver.</finishText>
+    </language>
+    <legacyMode/>
+    <promptIfDriverIsNotBetter/>
+</dpInst>
